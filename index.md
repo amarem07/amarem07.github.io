@@ -39,7 +39,7 @@ Part of my **AI in the Field** coursework, demonstrating understanding of RL fun
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 Python • Pandas • NumPy • scikit-learn • TensorFlow • PyTorch  
 SQL • Power BI • SAS • GitHub • Azure Data Factory
 
